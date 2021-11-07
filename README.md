@@ -1,6 +1,6 @@
 # Horiseon Website
 
-![Horiseon Logo.](./assets/images/horiseon-logo.jpg)
+![Horiseon Logo.](./assets/images/horiseon-logo.JPG)
 
 ## Description
 
